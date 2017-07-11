@@ -1,0 +1,19 @@
+{
+  "name": "happypreg",
+  "version": "0.0.0",
+  "description": "Personal Project for pregnant mothers to find a social group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitikaAher/HappyPreg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitikaAher/HappyPreg/issues"
+  },
+  "homepage": "https://github.com/RitikaAher/HappyPreg#readme"
+}
