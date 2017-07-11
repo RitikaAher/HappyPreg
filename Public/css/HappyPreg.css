@@ -1,0 +1,84 @@
+input.top-10 {
+  	box-sizing: border-box;
+    display: block;
+    border: none;
+    border-bottom: gray 1px solid;
+    margin-bottom: 20px;
+    padding: 4px;
+    width: 220px;
+    height: 32px;
+  	}
+
+  	#btn-sign-up {
+  		    width: 120px;
+    height: 32px;
+    background: #16a085;
+    border-color: #16a085;
+  	}
+
+  	.social-signin {
+  		color: white;
+    margin-bottom: 30px;
+    width: 204px;
+    height: 39px;
+    border: none;
+  	}
+
+  	.social-signin.facebook {
+  		background: #32508E;
+  		    margin-top: 20px;
+  	}
+  	.social-signin.twitter {
+  		background: #55ACEE;
+  	}
+  	.social-signin.google {
+  		background: #DD4B39;
+  	}
+  	.right-col {
+    background-image: url('images/login.jpg');
+    background-size: cover;
+        height: 410px;
+    text-align: center;
+}
+.loginwith {
+	    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+#login-container {
+	width: 50%;
+    display: block;
+    margin-top: 70px;
+    background-color: white;
+        border: 0;
+    -webkit-border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+body {
+	background-color: #eee;
+}
+.left-col {
+      border-right: 1px solid #eee;
+}
+.or {
+  width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    line-height: 3;
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    top: 242px;
+    left: 603px;
+}
+select {
+  border: 0;
+    border-radius: 0px;
+    border-bottom: 1px solid gainsboro;
+    background-color: white;
+    width: 160px;
+}
+.margin-15 {
+   margin-top: 15px;
+}
